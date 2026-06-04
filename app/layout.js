@@ -82,8 +82,7 @@ export const metadata = {
     },
   },
   verification: {
-    // Add Google Search Console verification code here after registering
-    // google: "your-verification-code",
+    google: "C0ymM2AVSKWcSSOxxrN8UaKFLYMum6xH-_zoL6MF6k4",
   },
   category: "technology",
 };
