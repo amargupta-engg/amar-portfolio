@@ -9,7 +9,7 @@ export const profile = {
   title: "Software Development Engineer 2",
   subtitle: "AI-Native Engineer · Platform Engineering",
   location: "Mumbai, India",
-  email: "amarg4812@gmail.com",
+  email: "amargupta.engg@gmail.com",
   phone: "+91 8446708718",
   linkedin: "https://www.linkedin.com/in/amargupta-engg",
   github: "https://github.com/amargupta-engg",
