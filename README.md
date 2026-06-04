@@ -1,6 +1,6 @@
 # Amar Gupta — Portfolio
 
-Personal portfolio site built with Next.js 14 (App Router) + Tailwind CSS, deployed on Vercel.
+Personal portfolio site where I update my contributions and what I'm doing professionally. Built with Next.js 14 (App Router) + Tailwind CSS, deployed on Vercel.
 
 ## Stack
 - **Framework:** Next.js 14 (App Router, JavaScript)
@@ -49,7 +49,7 @@ Edit that file, commit, push — Vercel auto-deploys.
 
 ## Deploy
 
-1. Push to GitHub (e.g. `github.com/amargupta-engg/portfolio`)
+1. Push to GitHub (`github.com/amargupta-engg/amar-portfolio`)
 2. Go to vercel.com → Import Project → select the repo
 3. Vercel detects Next.js automatically → Deploy
-4. Live at `amargupta-engg.vercel.app` in ~30 seconds
+4. Live at `amar-portfolio-amargupta-engg.vercel.app` in ~30 seconds
