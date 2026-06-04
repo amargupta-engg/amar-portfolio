@@ -4,7 +4,7 @@ import { profile } from "@/data/content";
 
 export default function Hero() {
   return (
-    <section className="relative pt-20 pb-16 sm:pt-28 sm:pb-20 overflow-hidden">
+    <section id="top" className="relative pt-28 pb-16 sm:pt-36 sm:pb-20 overflow-hidden">
       <div className="container-page">
         <div className="flex flex-col-reverse md:flex-row items-center md:items-start gap-10 md:gap-16">
           {/* LEFT — TEXT */}
